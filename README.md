@@ -1,2 +1,2 @@
-# Structure and Interpretation of Computer Programs
+# SICP Exercise Solutions in Clojure
 
